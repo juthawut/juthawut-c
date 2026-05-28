@@ -1,14 +1,14 @@
 # 👋 สวัสดีครับ ผม [ผู้ช่วยศาสตราจารย์จุฑาวุฒิ จันทรมาลี] (Asst.Prof.Juthawut Chantharamalee)
-**ประธานหลักสูตรวิทยาศาสตรบัณฑิต [สาขาวิชาวิทยาการคอมพิวเตอร์] | มหาวิทยาลัย [สวนดุสิต]**
+**ประธานหลักสูตรวิทยาศาสตรบัณฑิต [สาขาวิชาวิทยาการคอมพิวเตอร์] |คณะวิทยาศาสตร์และเทคโนโลยี |มหาวิทยาลัยสวนดุสิต**
 
-🎯 **เป้าหมายอาชีพ:** [ระบุตำแหน่งงานที่อยากทำ เช่น Data Analyst, Digital Marketer, Full-Stack Developer]
+🎯 **รายวิชาที่รับผิดชอบ:** [Operating Sysytem, Software Engineering, Pythoon Programming, AI Orchestration ]
 
 ---
 
 ## 🚀 ทักษะและความเชี่ยวชาญ (Skills & Tools)
-* **Hard Skills:** [เช่น Python, SQL, Financial Analysis, Adobe Photoshop, SPSS]
-* **Soft Skills:** [เช่น Team Leadership, Agile Methodology, Cross-cultural Communication]
-* **ภาษา:** [เช่น Thai (Native), English (TOEIC 750+)]
+* **Hard Skills:** [Python, SQL, Data Analytics, Signal Processing Photoshop, SPSS]
+* **Soft Skills:** [Project Leadership, Agile Methodology, Cross-cultural Communication]
+* **ภาษา:** [Thai (Native), English (TOEIC 750+)]
 
 ---
 
@@ -35,5 +35,5 @@
 ---
 
 ## 📫 ช่องทางการติดต่อ (Contact Me)
-* **📧 Email:** template@email.com
-* **💼 LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com)
+* **📧 Email:** ่jchantharamalee@gmail.com
+* **💼 LindID:** [084-205-5511]
